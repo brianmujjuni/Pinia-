@@ -12,7 +12,7 @@
 </template>
  
 <script>
-import { setMapStoreSuffix } from 'pinia';
+
 import { useTaskStore } from '../stores/TaskStore';
 
   export default {
