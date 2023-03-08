@@ -10,6 +10,6 @@
 
 <script>
   export default {
-    props: ['task'],
+    props: ['task']
   }
 </script>
